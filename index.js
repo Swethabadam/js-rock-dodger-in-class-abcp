@@ -75,7 +75,7 @@ function endGame() {
 }
 
 function moveDodger(e) {
-  
+  if()
   
   
     moveDodgerRight()
